@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+
 	cout << "\n" << char(201) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) 
 		<< char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205)
 		<< char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205)
@@ -24,6 +25,7 @@ int main()
 		<< char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205)
 		<< char(205) << char(205) << char(205) << char(205) << char(205) << char(205)
 		<< char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(205) << char(188) << endl;
+
 
 
 	return 0;
